@@ -1,7 +1,7 @@
 function addingEventListener() {
 }
 function addingEventListener() {
-    const input = document.getElementById('button');
+    const input = document.querySelector("#button");
   
     if (input) {
       function clickAlert() {
